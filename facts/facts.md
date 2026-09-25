@@ -5,4 +5,4 @@
 - P.E. Endorsement documents later shared by Hanyong are dated Sep 2025.
   - The P.E. endorsement are attached in a separate email with subject "Documents for #14-439 Jurong West St 41"
 - The renovation calendar was shared before and during the renovation works.
-
+- The HDB Permits and P.E. Endorsement items has already been paid for, for 95% of the price. There is a remaining 5% of the contract held back by homeowner.

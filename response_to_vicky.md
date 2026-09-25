@@ -35,32 +35,33 @@ A separate email with subject "**Documents for 470 Jurong West #14-439**" has be
 
 # Email Message Draft
 
-SUBJECT: ???
+SUBJECT: Renovation contract and supporting documents — 470 Jurong West #14-439
 
 Hi Vicky,
 
-Following up on your request during our WhatsApp voice call, our understanding of the contractual arrangement is as follows:
+Following up on your request during our WhatsApp voice call, below are the contractual details and records relevant to the staircase railings and balcony awning.
 
-- Our renovation contract is with Roque. The contract and quotation include the staircase railings and balcony awning, as well as an item for P.E. endorsement.
-- We have not identified any term in our contract requiring Roque to engage Saege.
-- Hanyong signed the contract on behalf of Roque. We do not know whether he is employed by Roque, Saege, or both.
+- Our renovation contract is with Roque, and Hanyong signed it on Roque's behalf. The contract and quotation include the staircase railings and balcony awning, as well as P.E. endorsement and HDB permit items.
+- We have paid 95% of the contract price, including 95% of the amounts for the P.E. endorsement and HDB permit items. We are withholding the remaining 5% of the contract price.
+- We have not identified any term requiring Roque to engage Saege. We do not know whether Hanyong is employed by Roque, Saege, or both.
 - HDB permits B-U21412-2 and B-UW-49815-1 were submitted by Saege and name Regina as the site manager. Cayden Lee also replied in the comments for permit B-U21412-2.
-- The renovation schedule shared by Regina included P.E. endorsement. This informed our understanding that endorsement was part of the planned works, although the schedule itself does not establish that endorsement was completed.
-- At handover, neither Hanyong nor Regina told us that any relevant endorsements or permits remained outstanding.
-- Hanyong later shared P.E. endorsement documents dated September 2025. These documents are in a separate email titled “Documents for #14-439 Jurong West St 41”.
+- The renovation calendar shared by Regina before and during the renovation included P.E. endorsement. This informed our understanding that endorsement formed part of the planned works. At handover, neither Hanyong nor Regina told us that any relevant endorsements or permits remained outstanding.
+- Hanyong later shared P.E. endorsement documents for the balcony awning and staircase railings dated September 2025.
 
-Our contract documents the works we engaged Roque to carry out, and the permit records show Saege's involvement in the renovation's permit submissions. However, we were not privy to communications between Roque and Saege and cannot confirm what instructions were given regarding the staircase railings, balcony awning or associated approvals.
+The contract records the works we engaged Roque to carry out, and the permit records show Saege's involvement in the renovation's permit submissions. We were not privy to communications between Roque and Saege, so we cannot confirm what instructions Roque gave Saege regarding these works or the associated approvals.
 
-We can provide the signed contract, quotation, renovation schedule and the two HDB permits, and forward the email containing the P.E. endorsement documents. Please let us know what further information HDB needs to assess Saege's account.
+Attached are copies of our renovation calendar for June, July and August 2025, our signed renovation contract, and the terms of engagement. The separate email titled “Documents for 470 Jurong West #14-439”, which has already been sent, contains the digital contract and quotation copies supplied by Roque/Saege and the P.E. endorsement documents.
+
+Please let us know if HDB needs any further documents or clarification to assess Saege's account.
 
 Dingfeng Quek
 
-# Checks before sending (not part of the WhatsApp message)
+# Checks before sending (not part of the email)
 
-- Verify the exact wording of the contract and quotation items covering the staircase railings, balcony awning and P.E. endorsement. Confirm whether permits are expressly included before adding any statement to that effect.
-- Check the contract for any term naming Saege or requiring Roque to engage it.
-- Attach the signed contract and HDB permits B-U21412-2 and B-UW-49815-1; the attachment references in facts.md are still marked TODO. Ensure the permit records include the applicant details, Regina's site-manager listing and Cayden Lee's comments referenced above.
-- Check the scope of the two permits before making any claim that they cover the staircase railings or balcony awning. The reply describes Saege's involvement in permit submissions without asserting that these particular works were approved.
-- Confirm the endorsement documents' scope and dates, and forward the email titled “Documents for #14-439 Jurong West St 41” if Vicky does not already have it. The September 2025 document dates alone do not establish when all relevant approvals were obtained.
-- Confirm the scheduled P.E. endorsement date; the original draft suggested 23 June 2025. Add the date only once verified.
-- If including the payment position, confirm whether the outstanding 5% refers to the total contract price and check the payment records. The payment claim has been omitted pending clarification.
+- Verify the exact wording of the contract and quotation items covering the staircase railings, balcony awning, P.E. endorsements and permits, and check for any term requiring Roque to engage Saege.
+- Attach all calendar, signed contract and terms-of-engagement images listed above. The email draft assumes these files will accompany it.
+- Confirm the separate email's exact subject and that it was sent to Vicky. This draft uses “Documents for 470 Jurong West #14-439” from the updated overview; facts.md still gives “Documents for #14-439 Jurong West St 41”.
+- Check the two permit records for Saege's submission details, Regina's site-manager listing and Cayden Lee's comments. The current attachment list does not include the permits, although facts.md mentions attaching them. Add them to the attachment list and email description if they will be included.
+- Check the scope of the permits before claiming that they cover the staircase railings or balcony awning. The reply does not assert that these particular works were approved.
+- Verify the scope and September 2025 dates of both P.E. endorsement documents. Their dates alone do not establish when all relevant approvals were obtained.
+- Check the filenames in the separate email's attachment list, particularly “staircase_railings_pe.df” and the quotation filename without an extension. Also confirm whether “Void Order” is the document's correct description.
