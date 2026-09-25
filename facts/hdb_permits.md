@@ -1,0 +1,13 @@
+
+- B-UW-02252-2025
+    - Application Date: 2025-07-08
+    - Attachment Filename: HDB Renovation Permit B-UW-02252-2025 (2025-07-08).pdf
+- B-UW-02587-2025
+    - Application Date: 2025-08-05
+    - Attachment Filename: HDB Renovation Permit B-UW-02587-2025 (2025-08-05).pdf
+- B-UW-01855-2025
+    - Application Date: 2025-06-03
+    - Contractor: Saege Pte. Ltd.
+    - Site Supervisor Name: Regina
+    - Clarifications made by Cayden Lee Wen Feng
+    - Attachment Filename: HDB Renovation Permit B-UW-01855-2025 (2025-06-03).pdf
