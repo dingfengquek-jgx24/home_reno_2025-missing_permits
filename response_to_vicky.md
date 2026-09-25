@@ -2,6 +2,8 @@
 
 Draft reply to Vicky (HDB officer), following a WhatsApp voice call about Saege's account that Roque did not instruct it to replace the staircase railings and install the balcony awning.
 
+Do not include the subject, it is a reply to another email.
+
 Things to include:
 
 - State that the homeowner's contract is with Roque, and homeowners have not identified any term requiring Roque to engage Saege. 
@@ -49,8 +51,6 @@ A separate email with subject "**Documents for 470 Jurong West #14-439**" has be
 
 # Email Message Draft
 
-SUBJECT: Renovation contract and supporting documents — 470 Jurong West #14-439
-
 Hi Vicky,
 
 Following up on your request during our WhatsApp voice call on 25 September 2026, below are the contractual details and records relevant to the staircase railings and balcony awning.
@@ -77,8 +77,6 @@ Dingfeng Quek
 - The calendar was shared in person by Regina and Hanyong; there is no digital record of that sharing. The draft does not specify when it was shared or when the P.E. endorsement documents were received.
 - Verify the exact wording of the contract and quotation items covering the staircase railings, balcony awning, P.E. endorsements and permits, and check for any term requiring Roque to engage Saege.
 - Attach HDB permit B-UW-01855-2025 and all calendar, signed contract and terms-of-engagement images listed above. The email draft assumes these files will accompany it.
-- Confirm the separate email's exact subject and that it was sent to Vicky. This draft uses “Documents for 470 Jurong West #14-439” from the updated overview; facts/facts.md still gives “Documents for #14-439 Jurong West St 41”.
 - Check permit B-UW-01855-2025 against facts/hdb_permits.md for the application date of 3 June 2025, Saege Pte. Ltd.'s contractor listing and Regina's site-supervisor listing.
 - Check the scope of the permit before claiming that it covers the staircase railings or balcony awning. The reply does not assert that these particular works were approved.
 - Verify the scope and September 2025 dates of both P.E. endorsement documents. Their dates alone do not establish when all relevant approvals were obtained.
-- Check the filenames in the separate email's attachment list, particularly “staircase_railings_pe.df” and the quotation filename without an extension. Also confirm whether “Void Order” is the document's correct description.
