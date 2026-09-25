@@ -40,11 +40,12 @@ A list of files will be attached in the email:
         - Homeowner x Roque Reno Terms of Engagement - Page 8 of 8.jpeg
 
 A separate email with subject "**Documents for 470 Jurong West #14-439**" has been sent, with the following files attached:
+
 - Contract between homeowner and Roque - Terms of Engagement (digital, signed, scanned copy from Roque/Saege): Contract -470 Jurong West #14-439.pdf
 - Contract between homeowner and Roque - Quotation (digital, signed, scanned copy from Roque/Saege): Quotation -470 Jurong West #14-439
 - Void Order Quote/Invoice: Serene V01.pdf
-- P.E. Endorsed Document for Balcony Awning: qp_endorsement_01.pdf
-- P.E. Endorsed Document for Staircase Railings: staircase_railings_pe.df
+- P.E. Endorsed Document for Balcony Awning: QP Calculation for 470 Jurong West.pdf
+- P.E. Endorsed Document for Staircase Railings: Indoor staircase railing 470 Jurong West.pdf
 
 # Email Message Draft
 
