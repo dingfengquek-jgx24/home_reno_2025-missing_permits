@@ -52,16 +52,16 @@ SUBJECT: Renovation contract and supporting documents — 470 Jurong West #14-43
 
 Hi Vicky,
 
-Following up on your request during our WhatsApp voice call, below are the contractual details and records relevant to the staircase railings and balcony awning.
+Following up on your request during our WhatsApp voice call on 25 September 2026, below are the contractual details and records relevant to the staircase railings and balcony awning.
 
 - Our renovation contract is with Roque. The contract and quotation include the staircase railings and balcony awning, as well as P.E. endorsement and HDB permit items.
 - Based on our verbal discussions with Hanyong and Regina, we understood that Roque would engage Saege as the main HDB renovation contractor. We have not identified any term in the written contract requiring Roque to engage Saege.
 - We have paid 95% of the contract price, which includes the P.E. endorsement and HDB permit items, and have held back the remaining 5%.
 - We understood Hanyong to be acting on Roque's behalf because he signed our contract for Roque. We do not know whether he also represented Saege.
 - HDB permit B-UW-01855-2025, with an application date of 3 June 2025, lists Saege Pte. Ltd. as the contractor and Regina as the site supervisor.
-- The renovation calendar shared by Regina before and during the renovation scheduled “P.E. SUBMISSION” for 23 June 2025 and “INSTALL RAILING” for 24 July 2025. This informed our understanding that P.E. submission was planned before railing installation.
+- Regina and Hanyong shared the renovation calendar with us in person. It scheduled “P.E. SUBMISSION” for 23 June 2025 and “INSTALL RAILING” for 24 July 2025. This informed our understanding that P.E. submission was planned before railing installation.
 - At handover, neither Hanyong nor Regina told us that any relevant endorsements or permits remained outstanding.
-- Hanyong later shared P.E. endorsement documents for the balcony awning and staircase railings dated September 2025.
+- Hanyong shared P.E. endorsement documents for the balcony awning and staircase railings. The documents are dated September 2025.
 
 The contract records the works we engaged Roque to carry out, and the June 2025 permit record identifies Saege and Regina's roles in that application. We cannot confirm what specific instructions Roque gave Saege regarding the staircase railings, balcony awning or associated approvals.
 
@@ -73,6 +73,7 @@ Dingfeng Quek
 
 # Checks before sending (not part of the email)
 
+- The calendar was shared in person by Regina and Hanyong; there is no digital record of that sharing. The draft does not specify when it was shared or when the P.E. endorsement documents were received.
 - Verify the exact wording of the contract and quotation items covering the staircase railings, balcony awning, P.E. endorsements and permits, and check for any term requiring Roque to engage Saege.
 - Attach HDB permit B-UW-01855-2025 and all calendar, signed contract and terms-of-engagement images listed above. The email draft assumes these files will accompany it.
 - Confirm the separate email's exact subject and that it was sent to Vicky. This draft uses “Documents for 470 Jurong West #14-439” from the updated overview; facts/facts.md still gives “Documents for #14-439 Jurong West St 41”.
