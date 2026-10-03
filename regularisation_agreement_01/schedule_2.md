@@ -1,17 +1,8 @@
-# Schedule 2 — Homeowner Assistance, Fees and Repayment
+# Schedule 2 — Homeowner Assistance and Fixed Fee
 
-This Schedule forms part of the regularisation agreement. “Homeowners” means the husband and wife who are parties to that agreement. References to sections in this Schedule are to sections of Schedule 2 unless otherwise stated. Schedule 1 contains Roque's material assurances and warranties.
+This Schedule forms part of the regularisation agreement. “Homeowners” means the husband and wife who are parties to that agreement.
 
-The assistance fee is remuneration for homeowner work. Whether it is earned depends on performance of that work, not on whether Roque's warranties are true or breached. The two completion conditions govern only the separate obligation to repay an earned fee.
-
-The fee arrangements in this Schedule apply only to this Agreement and are subject to the main agreement's reservation of rights under the Original Contract. They do not resolve any claim under the Original Contract. That reservation does not itself defer a refund or repayment due under this Schedule.
-
-| Work and completion status | Treatment of fee |
-|---|---|
-| Work performed; both completion conditions met | Earned fee is repaid under sections 3–4 |
-| Work performed; either completion condition not met | Earned fee is retained, without requiring a warranty breach to earn it |
-| Work not performed and no longer to be performed | Unearned fee is refunded under section 2, regardless of either completion condition or any warranty breach |
-| Work only partly performed | Apply the section 2 allocation; the earned and unearned portions are treated separately |
+The fee compensates the Homeowners for their preparation, time and effort in agreeing and assisting with this remedial arrangement, including preparation already undertaken and their commitment to provide the assistance below. The fee for work performed is retained regardless of the outcome of regularisation. The portion attributable to unperformed work is refundable when the arrangement ends, as set out below; no breach is required.
 
 ## 1. Assistance scope and fixed fee
 
@@ -31,63 +22,33 @@ Record keeping includes organising correspondence, submissions, document version
 
 No site visit is included. Any additional scope or fee requires prior written agreement. The Homeowners are not obliged to sign an inaccurate declaration.
 
-The fee is fixed for the completed scope. The estimates and rates explain its pricing basis; completing a task in more or fewer hours does not change its allocated fixed fee. Payment upfront does not mean that unperformed work has been earned.
+The task allocations and rates explain the agreed price and provide the basis for the closing calculation in section 2. A completed task earns its full allocated fixed fee regardless of actual hours. The Homeowners must keep a simple record of tasks performed and time reasonably spent on partly completed tasks; this does not convert completed tasks to hourly billing.
 
-## 2. Work performed and refunds for unperformed work
+## 2. Payment and refund of unperformed work
 
-The Homeowners shall keep a simple log of the person performing each task, the date, work performed and time spent. The log supports any partial-performance calculation; it is not an hourly billing mechanism for completed tasks.
+Roque's obligation to pay the upfront S$785 arises on the Effective Date and follows section 1's payment timetable. Payment is not deferred until verification, submission or completion. It is subject to the closing adjustment below if the arrangement ends before all assistance is performed.
 
-If the arrangement is terminated (including by a Homeowner under Schedule 1, section 5), further assistance ceases under the independent interim duties in Schedule 1, clause 5.8, or the parties agree in writing that no further homeowner assistance will be performed, the earned fee is calculated as follows:
+Whenever this Agreement ends, whether by completion, termination for either party's breach, automatic termination, agreed termination or any other termination, the Homeowners must account for the fee and refund the portion attributable to work not performed. This applies regardless of fault, whether regularisation succeeds, and whether any assurance is true or false. A mere temporary suspension does not trigger a final accounting unless the parties agree that no further assistance will be performed.
+
+For this accounting, completion means that the regularisation process and the agreed homeowner assistance have concluded. Receipt of HDB approval alone does not end assistance while the agreed review of completion documents or record compilation remains outstanding. The Homeowners must perform those remaining tasks within a reasonable time after receiving the necessary records; they may not defer completion indefinitely. If further assistance ends earlier by termination or written agreement, account at that earlier point.
+
+Calculate the fee for work performed as follows:
 
 - A completed task earns its full allocated fixed fee, regardless of actual hours.
 - A task not started earns no fee.
-- A partly completed task earns the applicable reference rate multiplied by time reasonably spent on that task, capped at its allocated fixed fee. For the finalising-and-signing task, assess each homeowner's contribution separately against the allocations above.
-- No work may be counted twice. Work does not become earned merely because Roque breached the agreement.
+- A partly completed task earns the applicable reference rate multiplied by time reasonably spent, capped at that task's allocation. Assess the husband and wife separately against their respective allocations for the finalising-and-signing task.
+- Include preparation already performed for this arrangement. Do not count the same work twice. Neither breach nor termination earns a fee for unperformed work.
 
-For immediate P.E. termination, the Homeowners shall provide a written accounting and refund the unearned portion within 14 calendar days from the date specified in Schedule 1, clause 5.13. Otherwise, the Homeowners shall provide a written accounting and refund the unearned portion within 14 calendar days after termination, cessation under Schedule 1, clause 5.8, or agreed cessation of assistance, as applicable. If a calculation is disputed, the undisputed refund remains payable within that period; the disputed balance shall be handled under the agreement's dispute-resolution provision.
+Within 14 calendar days after completion or termination, or written agreement that further assistance ends, the Homeowners must supply a short written accounting and refund the amount received exceeding the fee for work performed. If automatic termination is discovered later, the period runs from the first written notification recording that termination to Roque and both Homeowners. Total refunds cannot exceed the fee received.
 
-This refund applies regardless of which party caused the arrangement to end, whether either completion condition below has been met, and whether any warranty was breached. An alleged or established warranty breach is not a basis under these fee terms to withhold a refund for unperformed work. The refund does not release either party from otherwise available claims for breach. A breach alone does not trigger this accounting if the arrangement and the agreed assistance continue; amounts for future work remain unearned advances until that work is performed.
+If the upfront fee remains wholly or partly unpaid when the closing adjustment applies, reconcile payments already made against the fee for work performed. Roque owes only the resulting unpaid balance for performed work, payable by the later of the original payment due date and 14 calendar days after receiving the accounting. There is no need to pay an unperformed portion merely to have it refunded. This adjustment does not erase an earlier payment breach or other accrued rights.
 
-## 3. Two conditions for repayment of the earned fee
+Any disputed calculation is handled under the Agreement's dispute provisions. The undisputed refund or balance must still be paid within the applicable period. An allegation of breach or a challenge to termination does not itself establish the fee calculation or suspend undisputed payment obligations. Any later binding determination is reflected in a corrected accounting without double payment.
 
-The earned assistance fee belongs to the Homeowners as remuneration for work performed. It is not earned through a warranty breach and is not calculated by reference to one. The Homeowners undertake a separate obligation to repay that earned fee only when **both** of the following conditions are met, subject to the later-discovery provision in section 5:
+The fee for work performed is not repayable merely because regularisation succeeds or the Agreement ends. If all agreed tasks are completed, the full S$785 is retained. These accounting, payment and refund obligations survive completion or termination, including termination at signing. They do not excuse a failure to perform continuing obligations or exclude otherwise available remedies for breach, mandatory law or a binding court or tribunal order.
 
-### Condition 1 — Successful regularisation
+## 3. Verification and reservation of rights
 
-The Homeowners have received written HDB confirmation that the specified staircase railings and balcony awning have been regularised, together with the relevant approvals and completion documents, and all conditions required to complete that regularisation have been satisfied.
+Schedule 1's investigation, disclosure and warranty obligations remain enforceable independently of the fee. Neither successful regularisation nor payment establishes the truth of an assurance. Falsity is not a condition for retaining the fee for performed work, and is not a basis for withholding a refund for unperformed work.
 
-Submission of an application, acceptance for processing, or an assurance from Roque or Saege alone does not establish successful regularisation. The exact works and required completion documents must be identified in the main agreement.
-
-### Condition 2 — No specified material assurance established as false
-
-None of the material factual assurances expressly identified in Schedule 1 has been established as false in a material respect as at the date to which that assurance relates.
-
-Schedule 1 identifies the assurances on which the Homeowners rely concerning Roque's and Saege's involvement in the original permit failures, permit-related decisions, disclosure and charging, and the factual basis and authorised use of the documents supporting the application. These assurances influence the Homeowners' willingness both to contract with Roque for the regularisation and to accept Saege as its subcontractor. They are material to the Homeowners' assessment of both companies' honesty, reliability and suitability, independently of whether regularisation ultimately succeeds.
-
-Roque gives immediate signing warranties from the Effective Date under Schedule 1, clauses 1.11 and 2.5. Its other factual warranties arise only after verification and complete delivery on the Verification Date under Schedule 1, clauses 1.3–1.4, and after verified supplements are delivered under clause 1.9. The warranties in clauses 1.11 and 2.5 are given at signing; the other Schedule 1 factual warranties arise only after verification. Historical assurances concern the identified historical periods. The adopted assurances, completed processes and factual package contents are warranted as specified in Schedule 1. The immediate warranties cannot be deferred as unresolved. Administrative delivery of existing P.E. endorsements and confirmations is separately due within seven calendar days under Schedule 1, clause 2.5; a delivery breach alone does not establish substantive falsity. Cessation on expiry of that deadline triggers section 2 accounting under Schedule 1, clause 5.13. For post-verification assurances, an expressly unresolved proposition is not warranted as established, but its reported status, enquiries and evidence must be materially accurate and not misleading. A correction before a post-verification warranty commences is not itself a false warranty; it cannot excuse an immediate warranty breach.
-
-The Homeowners may rely on these assurances without independently verifying them. This Agreement, including this Schedule, is binding from signing as specified in the main agreement. Roque must deliver the complete verification package by email within 14 calendar days after the Effective Date and before proceeding with regularisation. Failure to do so is a breach and does not defer the assistance-fee payment timetable. That delivery breach does not, by itself, establish that a material assurance was false; this repayment condition concerns material falsity. Missing, late or false verification does not retrospectively render the Agreement or these fee arrangements ineffective.
-
-For this provision, a material inaccuracy or omission is one that would reasonably affect the Homeowners' decision to contract with Roque, accept Saege as subcontractor or the specified project managers, directors, representatives or verification or oversight leads (including Nicholas and Cayden), or rely on the validity or reliability of the regularisation. It need not cause the application to fail. A minor error unrelated to those matters does not prevent repayment. The assurances include the warranty against material omissions that make the stated account misleading in Schedule 1.
-
-This provision does not guarantee that an authority will never revisit an approval. Future regulatory action does not, by itself, establish that a specified factual assurance was false when made.
-
-## 4. Repayment and disputed inaccuracies
-
-If both completion conditions are met, the Homeowners shall repay the assistance fee still held within 14 calendar days after receiving the complete regularisation completion documents. Amounts already refunded for unperformed work count towards that repayment: total refunds and repayments shall never exceed the assistance fee received.
-
-Unless both completion conditions are met, the Homeowners retain the earned fee for the work performed. This applies whether regularisation remains incomplete without any breach or because of a breach, and whether a material assurance has or has not been established as false. If a specified material assurance is established as false, Condition 2 is not met; this affects the repayment obligation, not the amount earned. In every case, the unearned portion remains refundable under section 2.
-
-If the Homeowners identify a possible material falsehood before repayment, they shall notify Roque in writing, identify the assurance and provide the evidence reasonably available to them. A bare allegation does not establish falsity. Repayment of the earned amount may be deferred while that specific, evidence-supported dispute is resolved under the main agreement's dispute-resolution provision; refunds of unearned amounts are unaffected.
-
-For this provision, a falsehood is established by Roque's written admission, the parties' written agreement, or a binding determination through the agreed dispute process or a court or tribunal with jurisdiction. If the dispute is resolved without establishing a material falsehood and Condition 1 has been met, repayment is due within 14 calendar days of resolution.
-
-## 5. False assurances discovered after repayment
-
-The second completion condition remains subject to the following later-discovery provision for **six calendar months after repayment of the earned assistance fee**.
-
-This six-calendar-month notice period applies only to the right to recover a repaid earned fee under this section. It does not limit the rights or claims reserved under the Original Contract or extend any applicable statutory limitation period.
-
-If, within **six calendar months after repayment of the earned assistance fee**, the Homeowners notify Roque with reasonably available supporting evidence that a specified material assurance was false, and that falsehood is subsequently established under section 4, Roque shall return the **earned portion previously repaid** within 14 calendar days of that establishment. A notice given within the six-month period may be resolved after the period expires. No amount refunded for unperformed work becomes payable back to the Homeowners under this clause.
-
-Termination under Schedule 1, section 5, including clauses 5.13 and 5.14, does not itself establish disputed falsity for this Schedule. The immediate factual warranties in clauses 1.11 and 2.5 are material assurances for Condition 2; their falsity is established by the same section 4 process, without delaying termination. A later P.E. withdrawal does not by itself establish that an earlier confirmation never existed. Accrued payment obligations survive even if termination occurs at signing before their payment date, subject to the earned/unearned accounting in this Schedule. Conversely, the requirements for establishing falsity here are not prerequisites to that termination right. Accrued payment obligations and the accounting, refund, repayment and later-discovery provisions of this Schedule survive termination to the extent applicable.
+Payment, retention or refund does not constitute acceptance of all renovation works or a settlement, release or waiver of claims reserved under the Original Contract. The Homeowners must not recover compensation twice for the same time or effort covered by the fee. Any separate settlement must be expressly agreed in writing. These provisions survive completion or termination.
