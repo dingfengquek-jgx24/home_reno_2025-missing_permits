@@ -1,20 +1,95 @@
 # Homeowner Effort and Fees
 
-The homeowner husband gives a salary rate of $150 per hour.
-The homeowner wife gives a rate of $70 per hour, based on her last held job. Wife is currently a stay at home mom.
+Draft terms for incorporation into the regularisation agreement. “Homeowners” means the husband and wife who are parties to that agreement.
 
-| Task | Estimated time | Fee |
+The assistance fee is remuneration for homeowner work. Whether it is earned depends on performance of that work, not on whether Roque's warranties are true or breached. The two completion conditions govern only the separate obligation to repay an earned fee.
+
+| Work and completion status | Treatment of fee |
+|---|---|
+| Work performed; both completion conditions met | Earned fee is repaid under sections 3–4 |
+| Work performed; either completion condition not met | Earned fee is retained, without requiring a warranty breach to earn it |
+| Work not performed and no longer to be performed | Unearned fee is refunded under section 2, regardless of either completion condition or any warranty breach |
+| Work only partly performed | Apply the section 2 allocation; the earned and unearned portions are treated separately |
+
+## 1. Assistance scope and fixed fee
+
+Roque shall pay the Homeowners an upfront assistance fee of **S$785**, within **[agreed payment period]** after signing and before the Homeowners are required to undertake any further assistance under this arrangement. The fee covers the following work, including preparation already undertaken for this arrangement.
+
+The pricing reference is S$150 per hour for the husband, based on his stated salary rate, and S$70 per hour for the wife, based on her last-held employment. The wife is currently a stay-at-home mother. These are agreed valuations of their assistance, not assertions that they have lost employment income.
+
+| Task | Estimated effort | Allocated fixed fee |
 |---|---:|---:|
-| Draft agreement and review relevant records | 2 hours husband | S$300 |
-| Finalise and sign | ½ hour husband ½ hour wife | S$110 |
-| Review regularisation results | 1½ husband | S$225 |
-| Maintain and compile records | 1 hour husband | S$150 |
-| **Total** | **5 hours** | **S$750** |
+| Draft agreement and review relevant records | Husband: 2 hours | S$300 |
+| Finalise and sign the agreement and required acknowledgement form, following review | Husband: ½ hour; wife: ½ hour | S$110 (husband S$75; wife S$35) |
+| Review regularisation results and completion documents | Husband: 1½ hours | S$225 |
+| Maintain and compile regularisation records | Husband: 1 hour | S$150 |
+| **Total** | **Husband: 5 hours; wife: ½ hour; total: 5½ person-hours** | **S$785** |
 
-The assistance fee is a fixed sum of S$750 for the specified scope given in the table. The estimated five hours and reference rate of S$150 per hour explain the pricing basis only. The fee shall not increase or decrease solely because actual time differs from the estimate. Any change to scope or additional fee requires prior written agreement
+Record keeping includes organising correspondence, submissions, document versions, key dates, decisions and final approvals. It excludes work already counted under another task and preparation for separate enforcement proceedings. Review of results means checking the agreed documents and approvals, not certifying engineering safety.
 
-# Homeowner Fees Refund Condition
+No site visit is included. Any additional scope or fee requires prior written agreement. The Homeowners are not obliged to sign an inaccurate declaration.
 
-The fee is refunded when 
+The fee is fixed for the completed scope. The estimates and rates explain its pricing basis; completing a task in more or fewer hours does not change its allocated fixed fee. Payment upfront does not mean that unperformed work has been earned.
 
-Roque warrants that the statements in Schedule 1 are accurate as at the date of this Agreement. The Homeowner relies on those statements in agreeing to the proposed regularisation arrangement. The Homeowner is not required to independently verify those statements before relying on them.
+## 2. Work performed and refunds for unperformed work
+
+The Homeowners shall keep a simple log of the person performing each task, the date, work performed and time spent. The log supports any partial-performance calculation; it is not an hourly billing mechanism for completed tasks.
+
+If the arrangement is terminated or the parties agree in writing that no further homeowner assistance will be performed, the earned fee is calculated as follows:
+
+- A completed task earns its full allocated fixed fee, regardless of actual hours.
+- A task not started earns no fee.
+- A partly completed task earns the applicable reference rate multiplied by time reasonably spent on that task, capped at its allocated fixed fee. For the finalising-and-signing task, assess each homeowner's contribution separately against the allocations above.
+- No work may be counted twice. Work does not become earned merely because Roque breached the agreement.
+
+The Homeowners shall provide a written accounting and refund the unearned portion within 14 calendar days after termination or agreed cessation of assistance. If a calculation is disputed, the undisputed refund remains payable within that period; the disputed balance shall be handled under the agreement's dispute-resolution provision.
+
+This refund applies regardless of which party caused the arrangement to end, whether either completion condition below has been met, and whether any warranty was breached. An alleged or established warranty breach is not a basis under these fee terms to withhold a refund for unperformed work. The refund does not release either party from otherwise available claims for breach. A breach alone does not trigger this accounting if the arrangement and the agreed assistance continue; amounts for future work remain unearned advances until that work is performed.
+
+## 3. Two conditions for repayment of the earned fee
+
+The earned assistance fee belongs to the Homeowners as remuneration for work performed. It is not earned through a warranty breach and is not calculated by reference to one. The Homeowners undertake a separate obligation to repay that earned fee only when **both** of the following conditions are met, subject to the later-discovery provision in section 5:
+
+### Condition 1 — Successful regularisation
+
+The Homeowners have received written HDB confirmation that the specified staircase railings and balcony awning have been regularised, together with the relevant approvals and completion documents, and all conditions required to complete that regularisation have been satisfied.
+
+Submission of an application, acceptance for processing, or an assurance from Roque or Saege alone does not establish successful regularisation. The exact works and required completion documents must be identified in the main agreement.
+
+### Condition 2 — No specified material assurance established as false
+
+None of the material factual assurances expressly identified in Schedule 1 has been established as false in a material respect as at the date to which that assurance relates.
+
+Schedule 1 identifies the assurances on which the Homeowners rely concerning Roque's and Saege's involvement in the original permit failures, permit-related decisions, disclosure and charging, and the factual basis and authorised use of the documents supporting the application. These assurances influence the Homeowners' willingness both to contract with Roque for the regularisation and to accept Saege as its subcontractor. They are material to the Homeowners' assessment of both companies' honesty, reliability and suitability, independently of whether regularisation ultimately succeeds.
+
+Roque warrants that those statements are accurate as at the date of the agreement, unless a statement expressly specifies another date. Where the intended assurance covers both a verification having been performed and the accuracy of the underlying fact, Schedule 1 must state both separately.
+
+The Homeowners may rely on these assurances without independently verifying them. Roque is not required by this fee provision to supply a new verification exercise or an upfront evidence package. This condition concerns a material assurance later established as false; mere absence of further evidence does not itself establish falsity.
+
+For this provision, a material inaccuracy or omission is one that would reasonably affect the Homeowners' decision to contract with Roque, accept Saege as subcontractor, or rely on the validity or reliability of the regularisation. It need not cause the application to fail. A minor error unrelated to those matters does not prevent repayment. The assurances include the warranty against material omissions that make the stated account misleading in Schedule 1.
+
+This provision does not guarantee that an authority will never revisit an approval. Future regulatory action does not, by itself, establish that a specified factual assurance was false when made.
+
+## 4. Repayment and disputed inaccuracies
+
+If both completion conditions are met, the Homeowners shall repay the assistance fee still held within 14 calendar days after receiving the complete regularisation completion documents. Amounts already refunded for unperformed work count towards that repayment: total refunds and repayments shall never exceed the assistance fee received.
+
+Unless both completion conditions are met, the Homeowners retain the earned fee for the work performed. This applies whether regularisation remains incomplete without any breach or because of a breach, and whether a material assurance has or has not been established as false. If a specified material assurance is established as false, Condition 2 is not met; this affects the repayment obligation, not the amount earned. In every case, the unearned portion remains refundable under section 2.
+
+If the Homeowners identify a possible material falsehood before repayment, they shall notify Roque in writing, identify the assurance and provide the evidence reasonably available to them. A bare allegation does not establish falsity. Repayment of the earned amount may be deferred while that specific, evidence-supported dispute is resolved under the main agreement's dispute-resolution provision; refunds of unearned amounts are unaffected.
+
+For this provision, a falsehood is established by Roque's written admission, the parties' written agreement, or a binding determination through the agreed dispute process or a court or tribunal with jurisdiction. If the dispute is resolved without establishing a material falsehood and Condition 1 has been met, repayment is due within 14 calendar days of resolution.
+
+## 5. False assurances discovered after repayment
+
+**Drafting choice to confirm before signing:** the proposed clause below preserves the second condition after repayment. The parties must agree its duration; it is not intended to create an unspecified, perpetual holding period.
+
+If, within **[agreed period after repayment]**, the Homeowners notify Roque with reasonably available supporting evidence that a specified material assurance was false, and that falsehood is subsequently established under section 4, Roque shall return the **earned portion previously repaid** within 14 calendar days of that establishment. A notice given within the agreed period may be resolved after the period expires. No amount refunded for unperformed work becomes payable back to the Homeowners under this clause.
+
+## 6. Matters to resolve before incorporation
+
+- Complete Schedule 1 with the exact assurances; do not substitute broad references to reputation or an undefined promise that approval can never be overturned.
+- Agree the upfront payment period, the precise regularisation completion documents, the period and effect of later-discovered falsehoods, and the dispute-resolution process. Define when a stalled arrangement may be terminated; it must not leave unperformed work pending indefinitely.
+- Reconcile this assistance scope with any statement in the main agreement that the Homeowners need only sign a form. This scope also includes drafting, review and record keeping.
+- Reconcile or remove the main agreement's separate S$600 and S$75 cash-penalty provisions. They are not part of this assistance fee and are not incorporated by this document.
+- Obtain Singapore legal review of the assurance-linked repayment and later-discovery provisions. Their description as repayment conditions does not by itself resolve whether they operate as breach remedies subject to the penalty rule. These draft terms do not assert guaranteed enforceability.
