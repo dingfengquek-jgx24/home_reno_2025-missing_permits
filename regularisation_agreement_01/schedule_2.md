@@ -4,6 +4,8 @@ This Schedule forms part of the regularisation agreement. “Homeowners” means
 
 The assistance fee is remuneration for homeowner work. Whether it is earned depends on performance of that work, not on whether Roque's warranties are true or breached. The two completion conditions govern only the separate obligation to repay an earned fee.
 
+The fee arrangements in this Schedule apply only to this Agreement and are subject to the main agreement's reservation of rights under the Original Contract. They do not resolve any claim under the Original Contract. That reservation does not itself defer a refund or repayment due under this Schedule.
+
 | Work and completion status | Treatment of fee |
 |---|---|
 | Work performed; both completion conditions met | Earned fee is repaid under sections 3–4 |
@@ -13,7 +15,7 @@ The assistance fee is remuneration for homeowner work. Whether it is earned depe
 
 ## 1. Assistance scope and fixed fee
 
-Roque shall pay the Homeowners an upfront assistance fee of **S$785**, within **[agreed payment period]** after signing and before the Homeowners are required to undertake any further assistance under this arrangement. The fee covers the following work, including preparation already undertaken for this arrangement.
+Roque shall pay the Homeowners an upfront assistance fee of **S$785**, within **[agreed payment period]** after the Effective Date and before the Homeowners are required to undertake any further assistance under this arrangement. The fee covers the following work, including preparation already undertaken for this arrangement.
 
 The pricing reference is S$150 per hour for the husband, based on his stated salary rate, and S$70 per hour for the wife, based on her last-held employment. The wife is currently a stay-at-home mother. These are agreed valuations of their assistance, not assertions that they have lost employment income.
 
@@ -62,9 +64,9 @@ None of the material factual assurances expressly identified in Schedule 1 has b
 
 Schedule 1 identifies the assurances on which the Homeowners rely concerning Roque's and Saege's involvement in the original permit failures, permit-related decisions, disclosure and charging, and the factual basis and authorised use of the documents supporting the application. These assurances influence the Homeowners' willingness both to contract with Roque for the regularisation and to accept Saege as its subcontractor. They are material to the Homeowners' assessment of both companies' honesty, reliability and suitability, independently of whether regularisation ultimately succeeds.
 
-Roque warrants that those statements are accurate as at the date of the agreement, unless a statement expressly specifies another date. Where the intended assurance covers both a verification having been performed and the accuracy of the underlying fact, Schedule 1 must state both separately.
+Roque warrants the underlying facts as at the Effective Date and repeats those warranties on the Verification Date in accordance with Schedule 1, clauses 1.3–1.4, subject to any expressly specified historical date or period. Assurances about completed verification processes and the contents of the delivered package apply at the dates specified in Schedule 1. Where the intended assurance covers both a verification having been performed and the accuracy of the underlying fact, Schedule 1 must state both separately.
 
-The Homeowners may rely on these assurances without independently verifying them. Roque is not required by this fee provision to supply a new verification exercise or an upfront evidence package. This condition concerns a material assurance later established as false; mere absence of further evidence does not itself establish falsity.
+The Homeowners may rely on these assurances without independently verifying them. This Agreement, including this Schedule, is binding from signing as specified in the main agreement. Roque must deliver the complete verification package by email within 14 calendar days after the Effective Date and before proceeding with regularisation. Failure to do so is a breach and does not defer the assistance-fee payment timetable. That delivery breach does not, by itself, establish that a material assurance was false; this repayment condition concerns material falsity. Missing, late or false verification does not retrospectively render the Agreement or these fee arrangements ineffective.
 
 For this provision, a material inaccuracy or omission is one that would reasonably affect the Homeowners' decision to contract with Roque, accept Saege as subcontractor, or rely on the validity or reliability of the regularisation. It need not cause the application to fail. A minor error unrelated to those matters does not prevent repayment. The assurances include the warranty against material omissions that make the stated account misleading in Schedule 1.
 
@@ -83,5 +85,7 @@ For this provision, a falsehood is established by Roque's written admission, the
 ## 5. False assurances discovered after repayment
 
 The second completion condition remains subject to the following later-discovery provision for **six calendar months after repayment of the earned assistance fee**.
+
+This six-calendar-month notice period applies only to the right to recover a repaid earned fee under this section. It does not limit the rights or claims reserved under the Original Contract or extend any applicable statutory limitation period.
 
 If, within **six calendar months after repayment of the earned assistance fee**, the Homeowners notify Roque with reasonably available supporting evidence that a specified material assurance was false, and that falsehood is subsequently established under section 4, Roque shall return the **earned portion previously repaid** within 14 calendar days of that establishment. A notice given within the six-month period may be resolved after the period expires. No amount refunded for unperformed work becomes payable back to the Homeowners under this clause.
