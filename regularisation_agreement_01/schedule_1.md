@@ -78,7 +78,7 @@ The Homeowners must expressly accept any exception as part of the signed agreeme
 
 ## 6. Relationship with the assistance fee
 
-6.1 The assistance fee is earned through performance of the homeowner tasks under the Homeowner Effort and Fees terms, independently of whether the warranties in this Schedule are true or breached. This Schedule identifies the material assurances for the second completion condition governing the separate repayment of earned fees. The Homeowner Effort and Fees terms govern notification, disputes and the agreed treatment of false assurances discovered after repayment.
+6.1 The assistance fee is earned through performance of the homeowner tasks under Schedule 2 — Homeowner Assistance, Fees and Repayment, independently of whether the warranties in this Schedule are true or breached. This Schedule identifies the material assurances for the second completion condition in section 3 of Schedule 2 governing the separate repayment of earned fees. Sections 4 and 5 of Schedule 2 govern notification, disputes and the agreed treatment of false assurances discovered within six calendar months after repayment.
 
 6.2 Successful regularisation alone does not establish the accuracy of these assurances or satisfy the second condition. A later regulatory action likewise does not, by itself, establish that an assurance was false when made.
 

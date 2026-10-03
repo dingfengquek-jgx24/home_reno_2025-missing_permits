@@ -1,6 +1,6 @@
-# Homeowner Effort and Fees
+# Schedule 2 — Homeowner Assistance, Fees and Repayment
 
-Draft terms for incorporation into the regularisation agreement. “Homeowners” means the husband and wife who are parties to that agreement.
+This Schedule forms part of the regularisation agreement. “Homeowners” means the husband and wife who are parties to that agreement. References to sections in this Schedule are to sections of Schedule 2 unless otherwise stated. Schedule 1 contains Roque's material assurances and warranties.
 
 The assistance fee is remuneration for homeowner work. Whether it is earned depends on performance of that work, not on whether Roque's warranties are true or breached. The two completion conditions govern only the separate obligation to repay an earned fee.
 
@@ -82,14 +82,6 @@ For this provision, a falsehood is established by Roque's written admission, the
 
 ## 5. False assurances discovered after repayment
 
-**Drafting choice to confirm before signing:** the proposed clause below preserves the second condition after repayment. The parties must agree its duration; it is not intended to create an unspecified, perpetual holding period.
+The second completion condition remains subject to the following later-discovery provision for **six calendar months after repayment of the earned assistance fee**.
 
-If, within **[agreed period after repayment]**, the Homeowners notify Roque with reasonably available supporting evidence that a specified material assurance was false, and that falsehood is subsequently established under section 4, Roque shall return the **earned portion previously repaid** within 14 calendar days of that establishment. A notice given within the agreed period may be resolved after the period expires. No amount refunded for unperformed work becomes payable back to the Homeowners under this clause.
-
-## 6. Matters to resolve before incorporation
-
-- Complete Schedule 1 with the exact assurances; do not substitute broad references to reputation or an undefined promise that approval can never be overturned.
-- Agree the upfront payment period, the precise regularisation completion documents, the period and effect of later-discovered falsehoods, and the dispute-resolution process. Define when a stalled arrangement may be terminated; it must not leave unperformed work pending indefinitely.
-- Reconcile this assistance scope with any statement in the main agreement that the Homeowners need only sign a form. This scope also includes drafting, review and record keeping.
-- Reconcile or remove the main agreement's separate S$600 and S$75 cash-penalty provisions. They are not part of this assistance fee and are not incorporated by this document.
-- Obtain Singapore legal review of the assurance-linked repayment and later-discovery provisions. Their description as repayment conditions does not by itself resolve whether they operate as breach remedies subject to the penalty rule. These draft terms do not assert guaranteed enforceability.
+If, within **six calendar months after repayment of the earned assistance fee**, the Homeowners notify Roque with reasonably available supporting evidence that a specified material assurance was false, and that falsehood is subsequently established under section 4, Roque shall return the **earned portion previously repaid** within 14 calendar days of that establishment. A notice given within the six-month period may be resolved after the period expires. No amount refunded for unperformed work becomes payable back to the Homeowners under this clause.
