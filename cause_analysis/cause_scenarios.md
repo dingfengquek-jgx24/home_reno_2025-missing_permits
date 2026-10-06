@@ -28,10 +28,7 @@ What could have caused that? What questions do we need to investigate and find o
 
 Are the below questions enough?
 
-- Who was contractually and operationally responsible within Roque for checking HDB compliance before physical works began?
-- Who was contractually and operationally responsible within Saege for checking HDB compliance before physical works began?
 
-- What are the specific terms of employment or engagement for Regina? Did she represent Roque, Saege, or both as a joint liaison?
 
 - Who (if anyone) in Roque was tasked to manage or handle the replacement of staircase railings?
 - Who (if anyone) in Saege was tasked to manage or handle the replacement of staircase railings? 
