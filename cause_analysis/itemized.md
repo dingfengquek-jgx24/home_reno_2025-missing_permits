@@ -48,6 +48,7 @@
 - If Roque engaged or otherwise instructed Saege for the HDB Permit and also the required P.E. endorsements and submission, were the works officially passed to Saege and payment made?
 - If Roque engaged or otherwise instructed Saege for the physical works, were the works officially passed to Saege and payment made?
 - Did Roque have a contract or agreement with Saege, and if so, has it been fully paid?
+- Did Roque pass any payment to Saege specifically allocated for the staircase railings fabrication, installation, or P.E. submission?
 
 # HDB Permits
 
@@ -56,14 +57,17 @@
 
 # Sep 2025 P.E. Docs
 
+- Did Roque or any contractor approach any PE before physical works for the awning and staircase railings? (before June 2025?)
+- If yes, did that PE refuse to sign off due to design or structural issues?
 - Which company commissioned for the P.E. docs for staircase railings and balcony awning? Roque or Saege, or someone else?
 - Which company or who paid for the P.E. docs?
 - Who in the company engaged the P.E.?
 - Were the P.E. docs commissioned for the purpose of applying for a HDB Permit?
 - Were the P.E. docs commissioned for the purpose of regularisation?
 - If the P.E. docs were not commissioned for the mentioned purposes, what was the purpose for commissioning the P.E. docs?
-- Did Roque or Saege approach any PE before physical works for the staircase railings? (before June 2025?)
-- If yes, did that PE refuse to sign off due to design or structural issues?
+- What was the exact written brief or scope of work given to the P.E. when they were engaged in September 2025? (Provide the engagement letter)
+- Did the P.E. explicitly inform Roque or Saege that an application for a retrospective HDB permit was impossible or that the current installation failed HDB criteria?
+- What do those two September 2025 P.E. documents actually conclude? Do they state the staircase is structurally sound, or do they outline defects?
 
 Assuming that Roque commissioned,
 
@@ -84,6 +88,7 @@ Assuming that Roque commissioned,
 - Which person engaged and instructed workers to start physical works?
 - Was there a structural drawing or design plan for the railings? If so, who drew it, who approved it, and was it ever sent to Saege or a PE for review before installation?
 - Did the physical staircase railings meet the specific HDB/BCA structural guidelines at the time of fabrication?
+- Did Cayden (Saege) ever flag to Regina or Hanyong in writing that work was commencing on the staircase without a valid permit?
 
 
 # Responsibility for Checking HDB Compliance Before Physical Works
@@ -120,6 +125,7 @@ If it is not clear Saege didn't perform the physical works,
 - When did Roque find out there was no HDB Permit?
 - Who in Roque found out there was no HDB Permit, and how?
 - Did Roque inform homeowners when they found that there was no HDB Permit?
+  - If so, on what exact date, through which channel (e.g., WhatsApp, email), and what reason or explanation was provided?
 - If Roque informed homeowners, who in Roque informed which homeowner?
 - Did Roque respond to the homeowner enquiries during August and September 2026 on whether there is a HDB Permit for staircase railings?
 - If so, who checked whether there is a HDB Permit, how was it checked, and what was the response by Roque?
